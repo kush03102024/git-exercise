@@ -1,7 +1,7 @@
 class PythonGetPostAPI:
 
     def get(self):
-        pass
+        print("GET method.")
 
     def post(self):
-        pass
+        print("POST method.")
