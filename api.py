@@ -5,3 +5,6 @@ class PythonGetPostAPI:
 
     def post(self):
         print("POST method.")
+
+    def bug_fix(self):
+        print("Bug fix method.")
