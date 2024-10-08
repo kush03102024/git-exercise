@@ -9,3 +9,6 @@ class PythonGetPostAPI:
         print("POST method.")
         # Add logic for the POST method.
         print("End of the POST method.")
+
+    def bug_fix(self):
+        print("Bug fix method.")
