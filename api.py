@@ -12,3 +12,9 @@ class PythonGetPostAPI:
 
     def bug_fix(self):
         print("Bug fix method.")
+
+    def some_operations(self):
+        pass
+
+    def some_new_operations(self):
+        pass
