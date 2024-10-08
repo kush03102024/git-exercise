@@ -18,6 +18,3 @@ class PythonGetPostAPI:
 
     def some_new_operations(self):
         pass
-
-    def unnecessary_method(self):
-        pass
